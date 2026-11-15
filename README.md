@@ -8,7 +8,7 @@
 ### AI Systems & Full-Stack Tooling Engineer
 
 [![Email](https://img.shields.io/badge/Email-kevalparikh22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevalparikh22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalparikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalparikh22/)
 [![Freelance](https://img.shields.io/badge/Freelance-Available%20for%20Hire-22c55e?style=for-the-badge&logo=upwork&logoColor=white)](#-lets-collaborate--build)
 [![Location](https://img.shields.io/badge/Location-Remote%20%7C%20Global-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -118,7 +118,7 @@ I design and engineer **autonomous AI agents, developer tooling, and high-perfor
 Whether you are looking to hire for an **AI/Full-Stack freelance contract**, need guidance on **multi-agent orchestration**, or have an open role:
 
 - 📧 **Direct Email:** [kevalparikh22@gmail.com](mailto:kevalparikh22@gmail.com)
-- 💼 **LinkedIn Profile:** [Connect on LinkedIn](https://www.linkedin.com/in/kevalparikh)
+- 💼 **LinkedIn Profile:** [Connect on LinkedIn](https://www.linkedin.com/in/kevalparikh22/)
 - 💬 **GitHub Discussions:** Feel free to open a topic on [conductor-ai discussions](https://github.com/KevalParikh22/conductor-ai/discussions)
 
 <p align="center">
