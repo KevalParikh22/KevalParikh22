@@ -102,12 +102,12 @@ I design and engineer **autonomous AI agents, developer tooling, and high-perfor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KevalParikh22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalParikh22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" height="165" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=KevalParikh22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KevalParikh22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" height="165" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KevalParikh22&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=60a5fa" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=KevalParikh22&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=60a5fa" alt="GitHub Streak" />
 
 </div>
 
