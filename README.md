@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/banner.jpg" alt="Keval Parikh - AI Systems & Full-Stack Tooling" width="100%" />
+
+<br/><br/>
+
 # 👋 Hi, I'm Keval Parikh
 ### AI Systems & Full-Stack Tooling Engineer
 
